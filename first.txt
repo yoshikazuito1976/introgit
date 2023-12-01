@@ -6,3 +6,4 @@ gitの練習をしていきます。
 ・git add
 ・git commit
 ・git rm →ファイルの削除
+・git status
