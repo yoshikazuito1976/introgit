@@ -7,3 +7,5 @@ gitの練習をしていきます。
 ・git commit
 ・git rm →ファイルの削除
 ・git status
+・git diff
+・git log
